@@ -1,12 +1,11 @@
 # MeinVorstellungsgespr-ch
-Vorstellungsgespräch
 
-Yep. Interview prep.
+## Arrays
+- [ ] 
+- [ ] 
+- [ ] 
 
-Arrays:
-[] 
-[] 
-
-Graphs:
-[] Topological sort
-[] Minimum height tree
+## Graphs
+- [ ] Topo sort
+- [ ] 
+- [ ] 
