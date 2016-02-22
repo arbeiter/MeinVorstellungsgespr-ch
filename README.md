@@ -3,7 +3,7 @@
 ## Arrays
 - [ ] Given a collection of intervals, merge all overlapping intervals.
 - [ ] PrintArrayInSpiral
-- 
+
 ## Graphs
 - [ ] Topo sort
 
