@@ -9,6 +9,7 @@
 ## Trees
 - [ ] Serialize a binary tree
 - [ ] Deserialize a binary tree
+- [ ] Get Random Node
 
 ## Lists
 - [ ]  Remove Nth Node From End of List
