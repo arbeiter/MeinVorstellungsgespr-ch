@@ -17,4 +17,4 @@
 - [ ]  Add two numbers (Take care of max int)
 
 ## Stacks 
-- [ ]  Check if Valid Parentheses
+- [x]  Check if Valid Parentheses
