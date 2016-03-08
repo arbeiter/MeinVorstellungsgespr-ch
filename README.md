@@ -24,3 +24,6 @@
 ## Math
 - [ ] Check if number's a palindrome, without using extra space
 - [ ] Reverse a number
+
+## Design
+- [ ] LRU Cache
