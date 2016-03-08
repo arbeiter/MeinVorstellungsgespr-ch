@@ -20,6 +20,8 @@
 
 ## Stacks 
 - [x]  Check if Valid Parentheses
+- [ ]  Postfix calculator
+
 
 ## Math
 - [ ] Check if number's a palindrome, without using extra space
