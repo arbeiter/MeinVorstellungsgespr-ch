@@ -16,6 +16,7 @@
 ## Lists
 - [ ]  Remove Nth Node From End of List
 - [ ]  Add two numbers (Take care of max int)
+- [ ]  Find intersection of two lists
 
 ## Stacks 
 - [x]  Check if Valid Parentheses
