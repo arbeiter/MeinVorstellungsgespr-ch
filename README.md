@@ -19,6 +19,7 @@
 - [ ]  Remove Nth Node From End of List
 - [ ]  Add two numbers (Take care of max int)
 - [ ]  Find intersection of two lists
+- [ ]  Reverse nodes in pairs
 
 ## Stacks 
 - [x]  Check if Valid Parentheses
