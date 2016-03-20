@@ -5,6 +5,7 @@
 - [ ] PrintArrayInSpiral
 - [ ] Find the longest common prefix from a bunch of strings
 - [ ] Longest Substring Without Repeating Characters
+- [ ] Find subarray with maximum product
 
 ## Graphs
 - [ ] Topo sort
