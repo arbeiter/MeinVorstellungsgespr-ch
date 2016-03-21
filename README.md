@@ -29,6 +29,7 @@
 ## Math
 - [ ] Check if number's a palindrome, without using extra space
 - [ ] Reverse a number
+- [x] Add 1 to a number
 
 ## Design
 - [ ] LRU Cache
