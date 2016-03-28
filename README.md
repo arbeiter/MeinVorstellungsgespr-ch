@@ -6,6 +6,7 @@
 - [ ] Find the longest common prefix from a bunch of strings
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Find subarray with maximum product
+- [ ] Generate Phone number combos
 
 ## Graphs
 - [ ] Topo sort
