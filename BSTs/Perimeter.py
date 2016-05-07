@@ -1,5 +1,5 @@
 '''
-Print diameter of a BST
+Print perimeter of a BST
 
 
 				4
@@ -7,4 +7,5 @@ Print diameter of a BST
 	9		3			11		12
 4		3				   16			14
 
+4->8->9->4->3->16->14->10->12->14
 '''
